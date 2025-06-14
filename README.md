@@ -4,16 +4,16 @@ This project focuses on color metallography to reveal microstructures in metal s
 Method:
 In this project, color metallography was performed using two different etchants:
 
-Kalling’s Reagent:
-This etchant is frequently used to bring out phases in steel and other alloys.
-The microstructures were observed under two magnifications:
-10x objective
-50x objective
+  Kalling’s Reagent:
+  This etchant is frequently used to bring out phases in steel and other alloys.
+  The microstructures were observed under two magnifications:
+  10x objective
+  50x objective
 
-Beraha’s Reagent
-This coloring etchant is used to produce a range of colors due to interference effects.
-The specimen was etched for 21 seconds.
-The microstructure was then viewed under 50x objective magnification.
+  Beraha’s Reagent
+  This coloring etchant is used to produce a range of colors due to interference effects.
+  The specimen was etched for 21 seconds.
+  The microstructure was then viewed under 50x objective magnification.
 
 Procedure:
 The metal samples were first ground, polished, and cleaned to produce a smooth, mirror-like surface.
